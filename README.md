@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Meylis-1
+
 - 👀 I’m interested in AI and Mobile development 
 - 🌱 I’m currently learning Python, Java, Kotlin and JS
 
